@@ -1,0 +1,15 @@
+/home/binh/projects/ufo/contract/target/wasm32-unknown-unknown/debug/deps/num_bigint-7931d2407a81aa86.rmeta: /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.1/src/lib.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.1/src/macros.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.1/src/bigint.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.1/src/biguint.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.1/src/algorithms.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.1/src/monty.rs /home/binh/projects/ufo/contract/target/wasm32-unknown-unknown/debug/build/num-bigint-b327a217bb60aba5/out/radix_bases.rs
+
+/home/binh/projects/ufo/contract/target/wasm32-unknown-unknown/debug/deps/libnum_bigint-7931d2407a81aa86.rlib: /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.1/src/lib.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.1/src/macros.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.1/src/bigint.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.1/src/biguint.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.1/src/algorithms.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.1/src/monty.rs /home/binh/projects/ufo/contract/target/wasm32-unknown-unknown/debug/build/num-bigint-b327a217bb60aba5/out/radix_bases.rs
+
+/home/binh/projects/ufo/contract/target/wasm32-unknown-unknown/debug/deps/num_bigint-7931d2407a81aa86.d: /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.1/src/lib.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.1/src/macros.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.1/src/bigint.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.1/src/biguint.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.1/src/algorithms.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.1/src/monty.rs /home/binh/projects/ufo/contract/target/wasm32-unknown-unknown/debug/build/num-bigint-b327a217bb60aba5/out/radix_bases.rs
+
+/home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.1/src/lib.rs:
+/home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.1/src/macros.rs:
+/home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.1/src/bigint.rs:
+/home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.1/src/biguint.rs:
+/home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.1/src/algorithms.rs:
+/home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.1/src/monty.rs:
+/home/binh/projects/ufo/contract/target/wasm32-unknown-unknown/debug/build/num-bigint-b327a217bb60aba5/out/radix_bases.rs:
+
+# env-dep:OUT_DIR=/home/binh/projects/ufo/contract/target/wasm32-unknown-unknown/debug/build/num-bigint-b327a217bb60aba5/out
