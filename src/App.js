@@ -46,12 +46,12 @@ export default function App() {
       <main >
         <div className="background"></div>
         <h1>MELEPORT SWAP NFT GAMING</h1>
-        <p class="center"> Login To Swap
+        <p class="center"> Login To Swap NFT 
         </p>
         <p style={{ textAlign: 'center', marginTop: '2.5em' }}>
           <button onClick={login}>Login</button>
         </p>
-        <center><img src="https://github.com/xuvadumong/MELEPORT_DemoGame/blob/main/Runtime_Resource/Game_1/pro_weapon.gif?raw=true" class="center" /></center>
+        <center><img src="https://github.com/xuvadumong/MELEPORT_DemoGame/blob/main/Runtime_Resource/Game_2/pro_starsparrow.gif?raw=true" class="center" /></center>
 
       </main>
     );
@@ -140,7 +140,7 @@ export default function App() {
 
             </center>
             <br />
-            <center><img src="https://github.com/xuvadumong/MELEPORT_DemoGame/blob/main/Runtime_Resource/Game_2/pro_starsparrow.gif?raw=true" className="center" /></center>
+            <center><img src="https://github.com/xuvadumong/MELEPORT_DemoGame/blob/main/Runtime_Resource/Game_1/pro_weapon.gif?raw=true" className="center " /></center>
 
           </fieldset>
         </form>
